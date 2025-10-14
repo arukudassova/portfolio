@@ -37,11 +37,11 @@ Relevant coursework: Data Structures & Algorithms, Linear Algebra, Probability &
 
 ### 📌 Selected Projects
 - **Climate-Action Toolkit** — Resource hub for SME climate grants & resilience tools  
-  👉 https://climate-action-toolkit.vercel.app/
+  👉 [climate-action-toolkit.vercel.app](https://climate-action-toolkit.vercel.app/)
 - **Tellus Mater** — Minerva’s sustainability newsletter (Editor; 400+ readership)  
-  👉 https://tellusmater.substack.com/
+  👉 [tellusmater.substack.com](https://tellusmater.substack.com/)
 - **DermaMarker (Tumaris Tech)** — Contributed to early MedTech concept; team won “Deep Diving” prize  
-  👉 (media) https://it-park.uz/en/itpark/news/female-startup-a-project-that-helps-identify-serious-disease
+  👉 media: [IT Park news article](https://it-park.uz/en/itpark/news/female-startup-a-project-that-helps-identify-serious-disease)
 
 ---
 ### 📫 Contact
