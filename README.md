@@ -45,7 +45,11 @@ Relevant coursework: Data Structures & Algorithms, Linear Algebra, Probability &
 
 ---
 ### 📫 Contact
-- Email: **aru@uni.minerva.edu**  
-- LinkedIn: https://linkedin.com/in/arukudassova
-- Substack: https://tellusmater.substack.com
+- Email: [aru@uni.minerva.edu][email]
+- LinkedIn: [Aru on LinkedIn][linkedin]
+- Substack: [Tellus Mater][substack]
+
+[email]: mailto:aru@uni.minerva.edu
+[linkedin]: https://linkedin.com/in/arukudassova
+[substack]: https://tellusmater.substack.com
 ---
