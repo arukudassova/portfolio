@@ -2,10 +2,10 @@
 lang: en-US
 
 # Site title
-title: "Aru Kudassova"
+title: Aru Kudassova
 # logo: 
 # description: text below image
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 
 # A description of your site for meta tag, search engine results.
 description: "Aru Kudassova – Data Science and Environment"
