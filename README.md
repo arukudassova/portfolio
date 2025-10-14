@@ -2,18 +2,13 @@
 
 I apply data science to real-world sustainability and finance problems. My work spans climate risk tools for SMEs, neobank research for freelancers, and wet-lab → data pipelines in carbon capture. I love turning messy data into decisions.
 
----
-
-## Education
-
+### Education
 **Minerva University** — B.Sc. Environmental & Earth Systems, **Minor: Data Science & Statistics**  
 *Global rotation • Aug 2023–May 2027*  
 Relevant coursework: Data Structures & Algorithms, Linear Algebra, Probability & Statistics, Environmental Modeling, Chemical Structures & Reactivity, Calculus (Single & Multivariable), Physics of Life, Empirical/Formal Analyses.
 
----
 
-## Experience
-
+### Experience
 **STEM Instructor (Robotics, AI, Python) — Lavner Education**  
 *San Diego, CA • Jun–Aug 2025*  
 - Designed & taught hands-on courses (Python, Scratch, Arduino, LEGO Mindstorms) for ages 8–14.  
@@ -39,25 +34,18 @@ Relevant coursework: Data Structures & Algorithms, Linear Algebra, Probability &
 - Co-developed a public website that centralizes grants & climate-resilience resources for 100+ small businesses.  
 - Led user interviews in climate-vulnerable neighborhoods and synthesized findings into product specs.
 
----
 
-## 📌 Selected Projects
-
+### 📌 Selected Projects
 - **Climate-Action Toolkit** — Resource hub for SME climate grants & resilience tools  
   👉 https://climate-action-toolkit.vercel.app/
-
 - **Tellus Mater** — Minerva’s sustainability newsletter (Editor; 400+ readership)  
   👉 https://tellusmater.substack.com/
-
 - **DermaMarker (Tumaris Tech)** — Contributed to early MedTech concept; team won “Deep Diving” prize  
   👉 (media) https://it-park.uz/en/itpark/news/female-startup-a-project-that-helps-identify-serious-disease
 
 ---
-
-## 📫 Contact
-
+### 📫 Contact
 - Email: **aru@uni.minerva.edu**  
 - LinkedIn: https://linkedin.com/in/arukudassova  
 - Substack: https://tellusmater.substack.com
-
 ---
