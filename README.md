@@ -5,8 +5,6 @@ I apply data science to real-world sustainability and finance problems. My work 
 ### Education
 **Minerva University** — B.Sc. Environmental & Earth Systems, **Minor: Data Science & Statistics**  
 *Global rotation • Aug 2023–May 2027*  
-Relevant coursework: Data Structures & Algorithms, Linear Algebra, Probability & Statistics, Environmental Modeling, Chemical Structures & Reactivity, Calculus (Single & Multivariable), Physics of Life, Empirical/Formal Analyses.
-
 
 ### Experience
 **STEM Instructor (Robotics, AI, Python) — Lavner Education**  
