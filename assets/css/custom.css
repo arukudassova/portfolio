@@ -1,8 +1,0 @@
-/* Kill the click on the theme’s header title link */
-.page-header .project-name a,
-.site-title a {
-  pointer-events: none;
-  text-decoration: none;
-  color: inherit;
-  cursor: default;
-}

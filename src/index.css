@@ -1,0 +1,97 @@
+:root{
+  --bg:#f7f3ea;
+  --text:#151515;
+  --muted:rgba(0,0,0,.6);
+  --border:rgba(0,0,0,.18);
+}
+
+*{box-sizing:border-box}
+html,body{height:100%}
+body{
+  margin:0;
+  background:var(--bg);
+  color:var(--text);
+  font-family: ui-serif, Georgia, "Times New Roman", Times, serif;
+}
+
+a{color:inherit;text-decoration:none;border-bottom:1px solid var(--border)}
+a:hover{border-bottom-color:var(--text)}
+
+.nav{
+  position:sticky; top:0;
+  background:var(--bg);
+  display:grid;
+  grid-template-columns:1fr auto 1fr;
+  align-items:center;
+  padding:28px 48px;
+  border-bottom:1px solid var(--border);
+}
+
+.navLeft,.navRight{display:flex;gap:18px;align-items:center}
+.navCenter{letter-spacing:.08em;font-style:italic;opacity:.9}
+
+.navItem{
+  text-transform:lowercase;
+  opacity:.85;
+  border-bottom:1px solid transparent;
+  padding-bottom:2px;
+}
+.navItem:hover{opacity:1;border-bottom-color:var(--border)}
+.navItem.active{opacity:1;border-bottom-color:var(--text)}
+
+.navButton{
+  text-transform:lowercase;
+  padding:10px 14px;
+  border:1px solid var(--border);
+  border-radius:999px;
+}
+.navButton:hover{border-color:var(--text)}
+
+.page{padding:64px 48px; max-width:1100px; margin:0 auto}
+.pageHeader{margin-bottom:42px}
+.title{font-size:40px;font-weight:500;margin:0 0 10px}
+.subtitle{margin:0;color:var(--muted)}
+
+.grid{
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:28px;
+}
+
+.card{margin:0}
+.placeholder{
+  width:100%;
+  aspect-ratio:4/5;
+  border:1px solid var(--border);
+  background:rgba(0,0,0,.03);
+  transition:transform 200ms ease;
+}
+.card:hover .placeholder{transform:scale(1.01)}
+.caption{margin-top:10px;font-size:14px;color:var(--muted)}
+
+.card img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border: 1px solid var(--border);
+}
+
+.about{
+  display:grid;
+  grid-template-columns:1.2fr 1fr;
+  gap:60px;
+  align-items:start;
+}
+.portraitPlaceholder{
+  width:100%;
+  aspect-ratio:3/4;
+  border:1px solid var(--border);
+  background:rgba(0,0,0,.03);
+}
+
+@media (max-width: 900px){
+  .nav{padding:20px 18px}
+  .page{padding:44px 18px}
+  .grid{grid-template-columns:repeat(2,1fr)}
+  .about{grid-template-columns:1fr}
+}
