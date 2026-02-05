@@ -1,7 +1,7 @@
 import art1 from "../assets/artworks/art1.jpg";
 import art2 from "../assets/artworks/art2.jpg";
 import art3 from "../assets/artworks/art3.jpeg";
-import illust1 from "../assets/artworks/illust1.PNG";
+import illust1 from "../assets/artworks/illust1.png";
 import illust2 from "../assets/artworks/illust2.png";
 
 const artworks = [
